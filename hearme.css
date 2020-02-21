@@ -1,0 +1,41 @@
+body{
+    background-image: url(images/header-bg.png);
+}
+h1{
+    text-align: right;
+    font-size: 60px;
+    color:red;
+}
+.education{
+    text-align: right;
+    font-size: 30px;
+    color: red;
+}
+.half{
+    text-align: left;
+    padding: 5% 3%;
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+   
+    float: left;
+    width: 30%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-weight: 200;
+}
+#position{
+    margin: 0 1% 0 20%;
+}
+.imagesize{
+    width: 100%;
+
+}
+section{
+    height: 400px;
+    padding-bottom: 300px;
+}
+.last p{
+    font-size: 60px;
+    color: red;
+}
